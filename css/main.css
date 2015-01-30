@@ -1,5 +1,5 @@
 html {
-	background-color: #8f8370;
+	background-color: #b5a9a0;
 	font-family: Arial, sans-serif;
 	font-style: normal;
 	text-align: left;
@@ -126,6 +126,7 @@ figure {
 
 footer {
 	background-color: #555;
+	padding-bottom: 1em;
 }
 
 footer h2 {
@@ -134,6 +135,7 @@ footer h2 {
 
 footer li {
 	list-style-type: circle;
+
 }
 
 li {
