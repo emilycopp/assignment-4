@@ -131,3 +131,12 @@ footer {
 footer h2 {
 	color: #fff;
 }
+
+footer li {
+	list-style-type: circle;
+}
+
+li {
+list-style-position: inside;
+
+}
