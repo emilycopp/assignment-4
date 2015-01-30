@@ -1,0 +1,133 @@
+html {
+	background-color: #8f8370;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	text-align: left;
+	font-size: 0.5rem;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 5rem;
+	line-height: 1.5;
+	color: #fff;
+	text-align: center;
+	background-color: #555;
+	margin: 0;
+}
+
+
+ol li {
+	list-style-type: lower-roman;
+	margin: 0;
+}
+
+
+h2 {
+	font-weight: bold;
+	font-size: 3rem;
+	line-height: 1.5;
+	color: #333;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 2rem;
+	line-height: 1.5;
+	color: #333;
+}
+
+nav {
+	background-color: #555;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 1em 1em;
+	border-radius: 4px;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	background-color: #7b1414;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 4px;
+
+}
+
+dl {
+	list-style-type: none;
+	line-height: 2;
+	padding: 0;
+}
+
+a {
+	color: #470e0e;
+	display: block;
+}
+
+
+blockquote {
+	font-size:2rem;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+.cite {
+text-align: center;
+	color: #ccc;
+}
+
+li {
+	list-style-type: none;
+}
+
+.emphasis {
+	color: #555;
+}
+
+dt {
+	font-weight: bold;
+}
+
+figcaption {
+	font-size: 0.3rem;
+	padding: 0;
+}
+
+
+.quotation:before{
+content: "\201C";
+color: #555;
+}
+
+.quotation:after{
+content: "\201D";
+color: #555;
+}
+
+figure {
+	border: 5px solid #555;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 1em 1em;
+}
+
+footer {
+	background-color: #555;
+}
+
+footer h2 {
+	color: #fff;
+}
